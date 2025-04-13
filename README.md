@@ -6,4 +6,4 @@ git clone https://github.com/nashwan185/F-Tool-.git
 
 cd F-Tool-
 
-python3 F-Tool_ddos_Nas.py
+python3 F-Tool_Nas.py
